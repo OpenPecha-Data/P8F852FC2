@@ -1,0 +1,96 @@
+id: P8F852FC2
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1PD45150
+  instance_id: http://purl.bdrc.io/resource/IE1PD45150
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - xia ga ba wen ji
+    en-x-mixed:
+    - rje zhabs dkar tshogs drug rang grol gyi gsung 'bum
+  author: http://purl.bdrc.io/resource/P287
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    9721767f619644a09fea0e60adb9067b:
+      title: པོད ༢་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 2
+      base_file: UT1PD45150_I2DB57572_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC7FFF8B184281D85
+      image_group: I2DB57572
+      quality: Low
+    fca57e1f5373428caeafebd2680b3843:
+      title: པོད ༡་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 1
+      base_file: UT1PD45150_I2DB57571_0000.txt
+      reference: http://purl.bdrc.io/resource/VL052FEA091E9A6C31
+      image_group: I2DB57571
+      quality: Low
+    b013e39ed3f44d348e2fb38fa4a8fc3e:
+      title: པོད ༧་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 7
+      base_file: UT1PD45150_I2DB57577_0000.txt
+      reference: http://purl.bdrc.io/resource/VL420CE7AD156E5FBE
+      image_group: I2DB57577
+      quality: Low
+    51d76ed1201843318b1e2065f2e76594:
+      title: པོད ༩་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 9
+      base_file: UT1PD45150_I2DB57579_0000.txt
+      reference: http://purl.bdrc.io/resource/VL81C8DE42DC05F5F7
+      image_group: I2DB57579
+      quality: Low
+    0078843014584732a61d2ea95c1eb07a:
+      title: པོད ༤་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 4
+      base_file: UT1PD45150_I2DB57574_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6A9C878F7C3F4B88
+      image_group: I2DB57574
+      quality: Low
+    1256b2bd5abf412eadee69abdb355dd1:
+      title: པོད ༦་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 6
+      base_file: UT1PD45150_I2DB57576_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7195531C79D43702
+      image_group: I2DB57576
+      quality: Low
+    0e4292ccf60a404a8094cda3f6f10f44:
+      title: པོད ༥་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 5
+      base_file: UT1PD45150_I2DB57575_0000.txt
+      reference: http://purl.bdrc.io/resource/VL94BEA9C440C2A73B
+      image_group: I2DB57575
+      quality: Low
+    ec2938f9f68c4e368c87ca195bf4d11e:
+      title: པོད ༨་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 8
+      base_file: UT1PD45150_I2DB57578_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA4CD6FDA3EC2E980
+      image_group: I2DB57578
+      quality: Low
+    36e5049d522e46bca32075da8d212418:
+      title: པོད ༣་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 3
+      base_file: UT1PD45150_I2DB57573_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA6643D5794724A17
+      image_group: I2DB57573
+      quality: Low
+    d2952c3bda2245eaacd10045cf3878b1:
+      title: པོད ༡༠་གསུང་འབུམ། ཚོགས་དྲུག་རང་གྲོལ
+      volume_number: 10
+      base_file: UT1PD45150_I2DB57580_0000.txt
+      reference: http://purl.bdrc.io/resource/VL051A508750BD6310
+      image_group: I2DB57580
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1PD45150
+  - http://purl.bdrc.io/resource/W1PD45150
+  ocr_software: Namsel
+created_at: '2021-12-27T14:42:30.040024'
+last_modified_at: '2021-12-27T14:42:30.040032'
